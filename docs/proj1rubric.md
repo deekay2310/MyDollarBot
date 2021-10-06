@@ -151,8 +151,8 @@
  </tr>
 </table>
 
-| Question 1.1: Does your website and documentation provide a clear, high-level overview of your software? |Yes|
-| Question 1.2: Does your website and documentation clearly describe the type of user who should use your software? |Yes|
+| Question 1.1: Does your website and documentation provide a clear, high-level overview of your software? |Yes| <br>
+| Question 1.2: Does your website and documentation clearly describe the type of user who should use your software? |Yes| <br>
 | Question 1.3: Do you publish case studies to show how your software has been used by yourself and others? |Yes|
 | Question 2.1: Is the name of your project/software unique? * |Yes|
 | Question 2.2: Is your project/software name free from trademark violations? * |Yes|

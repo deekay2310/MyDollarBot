@@ -53,3 +53,15 @@ Maintain the projects quality
 Fix problems that are important to users
 
 Enable a sustainable system for the projects maintainers to review contributions
+
+## Tips to Extend
+
+Check the Projects tab for TO-DO list and pick the feature you find interesting to work on.
+
+Create a branch and implement the feature in Python using Telegram bot and test it locally.
+
+Write corresponding test cases to ensure it is not breaking the existing system.
+
+Create pull request and request for the code review. Once the request is approved, merge to main.
+
+Any suggestions to improve the bot is appreciated. Please add it to the TO-DO list.

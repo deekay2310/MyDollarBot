@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mac Sys files
+.DS_Store
+
+# Generated files
+expense_record.json
